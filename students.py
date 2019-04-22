@@ -1,3 +1,7 @@
+#!usr/bin/python
+
+print "Hello world"
+"""
 # Student Data
 students = []
 
@@ -61,3 +65,5 @@ while True:
     # Exit
     print "Thank you for using SMS.\n\n"
     break
+
+"""
